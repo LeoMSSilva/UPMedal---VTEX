@@ -1,0 +1,28 @@
+.Container {
+    background-color: #424242;
+}
+
+.searchBarContainer :global(.vtex-input-prefix__group),
+.shippingContainer :global(.vtex-input-prefix__group) {
+    border: none;
+	border-bottom: 1px solid #ffffff;
+}
+
+.searchBarContainer :global(.vtex-input-prefix__group) {
+    width: 600px;
+}
+
+.searchIcon, .productBrand, .productDescriptionTitle, .content {
+    color: transparent;
+}
+
+.imageElementLink:hover{
+    color: #59ff00;
+}
+
+/*imagem do slider*/
+
+.imageElement--carousel {
+    margin: auto 25%;
+    border-radius: 25px;
+}

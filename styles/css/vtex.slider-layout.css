@@ -1,0 +1,36 @@
+/*section do slider*/
+
+.sliderLayoutContainer {
+    padding: 10px 80px 40px;
+    background-color: #303030;
+}
+
+/*arrows do slider*/
+
+.sliderArrows--carousel {
+    margin: 130px;
+    padding-top: 350px;
+}
+
+.sliderLeftArrow--carousel, .sliderRightArrow--carousel{
+    margin-top: 10%;
+}
+
+.sliderLeftArrow--carousel{
+    margin-left: 25%;
+}
+
+.sliderRightArrow--carousel{
+    margin-right: 25%;
+}
+
+.caretIcon {
+    color: #6a6a6a;
+    height: 10px;
+}
+
+/*pagination do slider*/
+
+.paginationDot--isActive {
+    background-color: #59ff00;
+}

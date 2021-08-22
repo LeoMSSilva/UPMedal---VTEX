@@ -1,0 +1,9 @@
+.container--icontext {
+    height: 30px;
+}
+.paragraph--icontext{
+    color: #ffffff;
+}
+.paragraph--icontext:hover{
+    color: #59ff00;
+}

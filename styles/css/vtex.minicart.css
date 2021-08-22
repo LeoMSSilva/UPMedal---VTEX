@@ -1,0 +1,11 @@
+.drawer {
+    background-color: #424242;
+}
+
+.closeIcon, .minicartTitle {
+    color: #ffffff;
+}
+
+.cartIcon{
+    width: 20px;
+}

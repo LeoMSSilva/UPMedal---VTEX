@@ -1,0 +1,30 @@
+{
+  "list-context.image-list#slider-banner": {
+    "children": [
+      "slider-layout#slider-images"
+    ],
+    "props": {
+      "height": 350,
+      "images": [
+        {
+          "image": "assets/images/slider/wood-sport-festival.png"
+        },
+        {
+          "image": "assets/images/slider/grandes-guerreiros.png"
+        }
+      ]
+    }
+  },
+  "slider-layout#slider-images": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "carousel"
+    }
+  }
+}
