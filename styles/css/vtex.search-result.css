@@ -1,0 +1,13 @@
+.searchResultContainer,.gallery {
+    background-color: #303030;
+}
+.galleryItem{
+    margin-bottom: 100px;
+    background-color: #424242;
+    border-radius: 7px;
+    padding: 0;
+}
+
+.gallery{
+    justify-content: space-around;
+}

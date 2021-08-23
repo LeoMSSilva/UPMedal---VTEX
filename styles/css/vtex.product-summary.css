@@ -1,0 +1,21 @@
+.priceContainer, .productBrand, .buyButton {
+	color: #ffffff;
+	text-align: center;
+}
+
+.price_sellingPrice,
+.price_installmentContainer {
+	color: #59ff00;
+}
+
+.element {
+	background-color: #424242;
+}
+
+.imageContainer {
+	width: 100%;
+}
+
+.buyButton{
+	background-color: #59ff00;
+}
